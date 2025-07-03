@@ -29,6 +29,13 @@ Projeto acadêmico desenvolvido como parte da disciplina **Programação Orienta
  ┣ 📜 ObjetosDemo.js         # Objetos interativos e suas regras de uso
  ┣ 📜 README.md              # Documentação do projeto
 ```
+Diagrama de Classes
+![diagramaDeClasses](https://github.com/user-attachments/assets/e0ee31a9-c345-4265-b1c2-94a9a9682232)
+
+---
+
+Mapa da Mansão
+![mapa da mansão](https://github.com/user-attachments/assets/4f718ef3-c62e-44d9-82bb-d2335781cc4f)
 
 ---
 
