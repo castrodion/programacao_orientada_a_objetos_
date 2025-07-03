@@ -117,14 +117,19 @@ Um erro leva ao **alarme sendo ativado** e **fim de jogo com derrota**.
 
 ---
 
-## 📈 Diagrama de Classes UML
+## 🗺️ Mapa da Mansão
 
-Se desejar visualizar as relações de herança e composição do projeto, utilize o arquivo PlantUML gerado a partir das classes (`Basicas.js`, etc.).
+O jogo se desenrola em 7 salas conectadas, com objetos e ferramentas distribuídas estrategicamente:
 
-Ferramentas recomendadas:
-- [PlantUML Online Server](https://plantuml.com/server)
-- VS Code com plugin *PlantUML Preview*
+![Mapa da Mansão](./mapa%20da%20mans%C3%A3o.jpg)
 
+---
+
+## 📐 Diagrama de Classes UML
+
+Abaixo, o diagrama mostra a estrutura de classes do jogo com herança, composição e relacionamentos entre os principais elementos:
+
+![Diagrama de Classes](./diagramaDeClasses.png)
 ---
 
 ## 👨‍💻 Autor
@@ -140,17 +145,3 @@ Este projeto foi desenvolvido exclusivamente para fins educacionais.
 
 
 ---
-
-## 🗺️ Mapa da Mansão
-
-O jogo se desenrola em 7 salas conectadas, com objetos e ferramentas distribuídas estrategicamente:
-
-![Mapa da Mansão](./mapa%20da%20mans%C3%A3o.jpg)
-
----
-
-## 📐 Diagrama de Classes UML
-
-Abaixo, o diagrama mostra a estrutura de classes do jogo com herança, composição e relacionamentos entre os principais elementos:
-
-![Diagrama de Classes](./diagramaDeClasses.png)
